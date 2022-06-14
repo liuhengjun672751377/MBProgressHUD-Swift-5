@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'MBProgressHUD-Swift'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of MBProgressHUD-Swift.'
+  s.name             = 'MBProgressHUD-Swift-5'
+  s.version          = '0.1.1'
+  s.summary          = 'A short description of MBProgressHUD-Swift. Swift 5 Changes'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Loveying/MBProgressHUD-Swift'
+  s.homepage         = 'https://github.com/liuhengjun672751377/MBProgressHUD-Swift-5.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Loveying' => 'xiayy3@sany.com.cn' }
-  s.source           = { :git => 'https://github.com/Loveying/MBProgressHUD-Swift.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/liuhengjun672751377/MBProgressHUD-Swift-5.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

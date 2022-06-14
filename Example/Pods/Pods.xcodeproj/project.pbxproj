@@ -38,11 +38,11 @@
 
 /* Begin PBXFileReference section */
 		00B6F68AD9558BA3707540DCDFF3AC6F /* MBProgressHUD-Swift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "MBProgressHUD-Swift.debug.xcconfig"; sourceTree = "<group>"; };
-		016D97E9CFA07CE14C7E4FB383268B61 /* MBProgressHUD_Swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MBProgressHUD_Swift.framework; path = "MBProgressHUD-Swift.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		016D97E9CFA07CE14C7E4FB383268B61 /* MBProgressHUD_Swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MBProgressHUD_Swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		06A6252E187996D8B5A56C3502CD9D7D /* Pods-MBProgressHUD-Swift_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MBProgressHUD-Swift_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		098052578735109990B4F3DC88702A9F /* Pods-MBProgressHUD-Swift_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD-Swift_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		0F9AAB15F1F9D8A530AC32FD43F829D3 /* MBProgressHUD-Swift.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "MBProgressHUD-Swift.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		103783182A0AAA6C5ED3E0644399AB32 /* Pods_MBProgressHUD_Swift_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MBProgressHUD_Swift_Tests.framework; path = "Pods-MBProgressHUD-Swift_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F9AAB15F1F9D8A530AC32FD43F829D3 /* MBProgressHUD-Swift.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "MBProgressHUD-Swift.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		103783182A0AAA6C5ED3E0644399AB32 /* Pods_MBProgressHUD_Swift_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MBProgressHUD_Swift_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DA097A59DFB197C0626A0EF61D29DF7 /* Pods-MBProgressHUD-Swift_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MBProgressHUD-Swift_Example-Info.plist"; sourceTree = "<group>"; };
 		3668E98D66614F11B07423A67A24CFDE /* Pods-MBProgressHUD-Swift_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MBProgressHUD-Swift_Example-dummy.m"; sourceTree = "<group>"; };
 		399002CC49B264021983ECBB545D9B30 /* MBProgressHUD-Swift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD-Swift-prefix.pch"; sourceTree = "<group>"; };
@@ -55,13 +55,13 @@
 		7B1B9BB6CD2C74D3A7D59FA8FD34E552 /* Pods-MBProgressHUD-Swift_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MBProgressHUD-Swift_Tests-umbrella.h"; sourceTree = "<group>"; };
 		7B9B547A560432AE636CE430FE31AEF3 /* Pods-MBProgressHUD-Swift_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MBProgressHUD-Swift_Tests-dummy.m"; sourceTree = "<group>"; };
 		7CB7EC4F0B60F2043ED7F53EBAE698ED /* Pods-MBProgressHUD-Swift_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD-Swift_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		806B5D3113987E61EDF54D61A93098D3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		806B5D3113987E61EDF54D61A93098D3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9FF6DA24B2608178736081F8F121CEA2 /* Pods-MBProgressHUD-Swift_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MBProgressHUD-Swift_Example-umbrella.h"; sourceTree = "<group>"; };
-		A352679FFCB35EE86A1D1E11D6535146 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		A352679FFCB35EE86A1D1E11D6535146 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B15D50422DB0C9CBEBA3186AC22FA550 /* Pods-MBProgressHUD-Swift_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD-Swift_Example.release.xcconfig"; sourceTree = "<group>"; };
 		C831488FC1A9C85B3AF150A28A525A97 /* MBProgressHUD-Swift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "MBProgressHUD-Swift.modulemap"; sourceTree = "<group>"; };
-		C8C1CFCF80643BA9F06B8EA02E74EDC2 /* Pods_MBProgressHUD_Swift_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MBProgressHUD_Swift_Example.framework; path = "Pods-MBProgressHUD-Swift_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8C1CFCF80643BA9F06B8EA02E74EDC2 /* Pods_MBProgressHUD_Swift_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MBProgressHUD_Swift_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8FB4985E30A85887F7E1DD90FA57AB0 /* MBProgressHUD-Swift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MBProgressHUD-Swift-dummy.m"; sourceTree = "<group>"; };
 		D0732DFB79BFBB67C5DE882BD6B9D90E /* Pods-MBProgressHUD-Swift_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD-Swift_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DB1813479FA6EB69B2353133E0D5355C /* MBProgressHUD-Swift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD-Swift-umbrella.h"; sourceTree = "<group>"; };
@@ -317,6 +317,11 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
+				TargetAttributes = {
+					209581D4EA5FA62C096AEBF4B811F801 = {
+						LastSwiftMigration = 1320;
+					};
+				};
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -560,7 +565,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -624,7 +629,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -718,8 +723,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
